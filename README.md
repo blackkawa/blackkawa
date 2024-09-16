@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gustavo Moretto Itikawa
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C, and Java
+- 🌱 I’m currently learning C, Java, Python, SQL, PHP, JavaScript.
 - 💞️ I’m looking to collaborate on sales projects
 - 📫 How to reach me on Linkedin: Gustavo Moretto Itikawa
 
